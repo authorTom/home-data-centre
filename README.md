@@ -3,7 +3,7 @@
 **Table of Contents**
 
    1. [Introduction](#1-introduction)
-   2. [Setting up a Proxmox Cluster](https://github.com/authorTom/home-data-centre/blob/a84068eedc9960ec4cef2d195bf263fbab7151f3/documentation/setting-up-a-proxmox-cluster.md)
+   2. [Setting up a Proxmox Cluster](https://github.com/authorTom/home-data-centre/blob/main/documentation/setting-up-a-proxmox-cluster.md)
 ## 1. Introduction
 I’m planning to build a mini self hosted data centre. In my house. Yes, you read that correctly. Not just a fancy computer tucked under the stairs, but a proper (ish) setup with servers and networking gear.
 
@@ -35,4 +35,4 @@ I don’t have deep pockets. I don’t have a dedicated, air-conditioned server 
 ### The Plan
 It’s still evolving. But the core idea is to document this journey – the successes, the inevitable failures, the “aha!” moments, and the “why did I think this was a good idea?” moments. I’ll be sharing what I learn about choosing hardware, setting up operating systems, wrangling networks, and trying to get useful services up and running.
 
-**Next...[Setting up a Proxmox Cluster](https://github.com/authorTom/home-data-centre/blob/a84068eedc9960ec4cef2d195bf263fbab7151f3/documentation/setting-up-a-proxmox-cluster.md)**
+**Next...[Setting up a Proxmox Cluster](https://github.com/authorTom/home-data-centre/blob/main/documentation/setting-up-a-proxmox-cluster.md)**
