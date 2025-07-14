@@ -208,7 +208,7 @@ In the Proxmox web interface, navigate to Datacenter -> Cluster and click the �
 #### Join the Cluster
 In the web interface of the node you want to add, navigate to
 
-Datacenter -> Cluster.
+**Datacenter -> Cluster**.
 
 #### Paste Join Information
 - Click the “Join Cluster“ button.
