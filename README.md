@@ -101,6 +101,10 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/community-scripts/Proxmo
 ### 2.5 Configuring Email Relay
 I configured an SMTP relay on each Proxmox node using a dedicated Gmail account. This allows each machine to send me email notifications for system events, such as backup completions, hardware failures, or other alerts.
 
+This can be configured manually or alternatively you can use this ➡️[automated script](scripts/setup_gmail_smtp_relay.sh).
+
+
+
 Generate Gmail App Password
 1. In your Google Account, go to **Security -> 2-Step Verification** and ensure it is enabled.
 2. In the Security section, go to App passwords.
