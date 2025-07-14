@@ -183,7 +183,7 @@ The node’s web interface will refresh as it joins the cluster. Repeat this ste
 #### Verify the Cluster
 On any node, refresh the web interface. You should now see all connected nodes listed under the Datacenter view.
 
-Alternatively, you can run the following command in any node’s terminal to see the cluster members:
+Alternatively, you can run the following command in any node terminal to see the cluster members:
 ```
 pvecm nodes
 ```
