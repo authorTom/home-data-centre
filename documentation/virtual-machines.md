@@ -215,7 +215,7 @@ VM migration is the process of moving a running virtual machine from one Proxmox
 
 Currently, with local storage on each node, the migration process involves copying the entire VM disk image over the network. This process is functional but can be very slow, especially over a 1GbE network connection. For large VMs, this can lead to significant downtime.
 
-**Future Improvements:**
+**Future Improvements**
 
 The long-term goal for this project is to implement a High Availability (HA) storage solution, such as Ceph. Ceph is a distributed storage platform that provides a unified storage pool across all nodes in the cluster. When a VM's disk is stored on Ceph, the migration process becomes nearly instantaneous. This is because the disk image is already accessible to all nodes, so only the VM's running state (the contents of its RAM) needs to be transferred over the network.
 
