@@ -1,4 +1,4 @@
-# 4.0 Resources
+# Resources
 ## Core Software
 *   [Proxmox VE](https://proxmox.com/) - A complete, open-source server management platform for enterprise virtualization. It integrates the KVM hypervisor and Linux Containers (LXC), software-defined storage, and networking functionality on a single platform.
 

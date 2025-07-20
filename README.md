@@ -5,7 +5,9 @@
    1. [Introduction](#1-introduction)
    2. [Setting up a Proxmox Cluster](https://github.com/authorTom/home-data-centre/blob/main/documentation/setting-up-a-proxmox-cluster.md)
    3. [Optimising Node Power](https://github.com/authorTom/home-data-centre/blob/main/documentation/optimising-node-power.md)
-   4. [Resources](https://github.com/authorTom/home-data-centre/blob/main/documentation/resources.md)
+   4. [Virtual Machines](https://github.com/authorTom/home-data-centre/blob/main/documentation/virtual-machines.md)
+
+   🔨[Resources](https://github.com/authorTom/home-data-centre/blob/main/documentation/resources.md)
 ## 1.0 Introduction
 I’m planning to build a mini self hosted data centre. In my house. Yes, you read that correctly. Not just a fancy computer tucked under the stairs, but a proper (ish) setup with servers and networking gear.
 
